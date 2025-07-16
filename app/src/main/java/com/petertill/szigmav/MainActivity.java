@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity {
                     // Handle reselection of pg_map
                 } else if (itemId == R.id.pg_about) {
                     // Open a website
-                    Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.example.com"));
+                    Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/petertill/VonaTrack"));
                     MainActivity.this.startActivity(intent);
                 }
                 return false;
