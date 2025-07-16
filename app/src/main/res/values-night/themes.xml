@@ -1,0 +1,5 @@
+<resources>
+    <style name="Base.Theme.SzigMÁV" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- You can override colors here if needed -->
+    </style>
+</resources>

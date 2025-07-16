@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+<style name="Base.Theme.SzigMÁV" parent="Theme.Material3.DayNight.NoActionBar">
+    <!-- Optional tweaks -->
+
+</style>
+
+    <style name="BottomSheetDialogTheme" parent="Theme.Material3.DayNight.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/CustomBottomSheet</item>
+    </style>
+    Widget.Material3.BottomSheet.Medium
+    <style name="CustomBottomSheet" parent="Widget.Material3.BottomSheet.Modal">
+        <item name="android:background">?android:attr/windowBackground</item>
+    </style>
+
+</resources>
