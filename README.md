@@ -1,2 +1,2 @@
 # VonaTrack
-A test Android app based on the original holavonat.hu domain. Not affiliated with MÁV in any way
+A test Android app based on the original holavonat.hu site. Not affiliated with MÁV in any way
